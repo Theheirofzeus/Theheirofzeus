@@ -1,1 +1,2 @@
-[![Minato's Github Stats](https://github-readme-stats.vercel.app/api?username=Theheirofzeus&count_private=true&show_icons=true&hide_border=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus&langs_count=8&layout=compact&hide_border=true)](https://github.com/theheirofzeus)
+[![Minato's Github Stats](https://github-readme-stats.vercel.app/api?username=Theheirofzeus&count_private=true&show_icons=true&hide_border=true&theme=merko) 
+
