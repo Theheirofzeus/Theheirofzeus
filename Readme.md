@@ -38,7 +38,6 @@
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus)](https://github.com/Theheirofzeus/github-readme-stats)
 
-    <br>
 </p><hr>
 
 
