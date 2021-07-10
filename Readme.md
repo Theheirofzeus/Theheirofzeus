@@ -13,8 +13,6 @@
 
 <!-- Skills -->
 <p align="center">
-        <a href="https://github.com/Theheirofzeus?tab=repositories" target="_blank"><img alt="Code"
-                src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"> </a> 
         <a href="https://github.com/Theheirofzeus?tab=repositories" target="_blank"><img alt="Python" 
                 src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"> </a>
         <a href="https://github.com/Theheirofzeus?tab=repositories" target="_blank"><img alt="HTML"
@@ -45,6 +43,6 @@
 I'm just a random teenager learning programming skills. Looking forward to open source projects, Currently learning new things.
 
 <hr></hr>
-<h4>Find me Here @ </h4>
+<h4>Find me Here</h4>
 <a href="https://t.me/xMinatox" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"></a>
