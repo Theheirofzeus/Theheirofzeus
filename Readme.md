@@ -50,5 +50,5 @@ I'm just a random teenager learning programming skills. Looking forward to open 
 
 <hr></hr>
 <h5>Pinned Repositories</h5>
-<a href="https://github.com/theheirofzeus/ShinobuRobot"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=theheirofzeus&repo=ShinobuRobot"
+<a href="https://github.com/theheirofzeus/ShinobuRobot"><img alt="Shinobu"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=theheirofzeus&repo=ShinobuRobot"></a>
