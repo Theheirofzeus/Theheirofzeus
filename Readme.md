@@ -32,7 +32,8 @@
 <!-- Stats -->
 <p align="center">
     <p align = "center">
-        <img src = "https://github-readme-stats.vercel.app/api?username=Theheirofzeus&show_icons=true&theme=bear&hide_border=true" width = 400> 
+        <img src = "https://github-readme-stats.vercel.app/api?username=Theheirofzeus&show_icons=true&theme=bear&hide_border=true&hide=" width = 400> 
+
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus&hide=Ruby&layout=compact)](https://github.com/Theheirofzeus/github-readme-stats)
 
@@ -46,3 +47,7 @@ I'm just a random teenager learning programming skills. Looking forward to open 
 <h4>Find me Here</h4>
 <a href="https://t.me/xMinatox" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"></a>
+
+<hr></hr>
+<h5>Pinned Repositories</h5>
+[![Shinobu](https://github-readme-stats.vercel.app/api/pin/?username=theheirofzeus&repo=ShinobuRobot)](https://github.com/theheirofzeus/ShinobuRobot)
