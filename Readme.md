@@ -32,7 +32,7 @@
 <!-- Stats -->
 <p align="center">
     <p align = "center">
-        <img src = "https://github-readme-stats.vercel.app/api?username=Theheirofzeus&show_icons=true&theme=bear&hide_border=true&hide=prs,issues" width = 400> 
+        <img src = "https://github-readme-stats.vercel.app/api?username=Theheirofzeus&show_icons=true&theme=bear&include_all_commits=true&hide_border=true&hide=prs,issues" width = 400> 
 
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus&hide=Ruby&layout=compact)](https://github.com/Theheirofzeus/github-readme-stats)
