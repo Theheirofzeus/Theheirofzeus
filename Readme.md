@@ -50,4 +50,4 @@ I'm just a random teenager learning programming skills. Looking forward to open 
 
 <hr></hr>
 <h5>Pinned Repositories</h5>
-[![Shinobu](https://github-readme-stats.vercel.app/api/pin/?username=theheirofzeus&repo=ShinobuRobot)](https://github.com/theheirofzeus/ShinobuRobot)
+[Shinobu](https://github-readme-stats.vercel.app/api/pin/?username=theheirofzeus&repo=ShinobuRobot)(https://github.com/theheirofzeus/ShinobuRobot)
