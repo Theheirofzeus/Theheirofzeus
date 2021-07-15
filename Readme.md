@@ -36,7 +36,7 @@
 <p align="center">
     <p align="center">
         <a href="https://github.com/Theheirofzeus?tab=repositories" target="_blank"><img alt="Top Languages"
-                src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus&hide=Ruby&layout=compact">
+                src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus&hide=Ruby&layout=compact" width = 400>
 </p><hr>
 
 
