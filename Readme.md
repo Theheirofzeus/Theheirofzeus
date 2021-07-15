@@ -33,7 +33,8 @@
 <p align="center">
     <p align="center">
         <img src = "https://github-readme-stats.vercel.app/api?username=Theheirofzeus&show_icons=true&theme=bear&count_private=true&include_all_commits=true&hide_border=true&hide=prs,issues" width = 400> 
-
+<p align="center">
+    <p align="center">
         <a href="https://github.com/Theheirofzeus?tab=repositories" target="_blank"><img alt="Top Languages"
                 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Theheirofzeus&hide=Ruby&layout=compact">
 </p><hr>
