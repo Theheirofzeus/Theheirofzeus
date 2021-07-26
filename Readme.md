@@ -5,7 +5,7 @@
 <h3 align="center">
     <samp>
         &gt; Hello<br>
-        <a target="_blank" href="https://t.me/xMinatox">&gt; Minato</a>
+        <a target="_blank" href="https://t.me/heirofzeus">&gt; Minato</a>
     </samp>
 
 </h3>
@@ -45,7 +45,7 @@ I'm just a random teenager learning programming skills. Looking forward to open 
 
 <hr></hr>
 <h4>Find me Here</h4>
-<a href="https://t.me/xMinatox" target="_blank"><img alt="Telegram"
+<a href="https://t.me/heirofzeus" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"></a>
 
 <hr></hr>
